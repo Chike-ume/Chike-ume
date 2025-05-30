@@ -2,11 +2,11 @@
 <h2>Check out my works: </h2>
 
 - <b>	Networking </b>
-  - [network scanning using python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [network scanning using python](https://github.com/)
 - <b>	cybersecurity(Python-based)</b>
-  - [network packet sniffer using python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [network packet sniffer using python](https://github.com/) 
 - <b>	python</b>
-  - [Firewall with IPTables](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Firewall with IPTables](https://github.com/)
 
 <h2> Connect with me:</h2>
 
