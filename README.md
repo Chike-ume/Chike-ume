@@ -4,7 +4,7 @@
 - <b>	Networking Projects</b>
   - [Virtual Delivery Company Network Architecture](https://github.com/Chike-ume/Chike-ume/issues/1#issue-3109626680)
   - [Virtual Delivery Company Router Configuration](https://github.com/Chike-ume/Chike-ume/issues/2)
-  - [Virtual Delivery Company Switch Configuration](https://github.com/)
+  - [Virtual Delivery Company Switch Configuration](https://github.com/Chike-ume/Chike-ume/issues/3)
   - [Virtual Delivery Company Acess-point Configuration](https://github.com/)
   - [Virtual Delivery Company Subnetting](https://github.com/)
     
